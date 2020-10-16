@@ -1,0 +1,408 @@
+AC3Db
+MATERIAL "mamp" rgb 0.300 0.300 0.150  amb 0.300 0.300 0.150  emis 0.000 0.000 0.000  spec 0.000 0.000 0.000  shi 0 trans 0.000
+MATERIAL "chapa-tex" rgb 0.460 0.480 0.060  amb 0.460 0.480 0.060  emis 0.000 0.000 0.000  spec 0.230 0.240 0.030  shi 32 trans 0.000
+MATERIAL "carp" rgb 1.000 1.000 1.000  amb 1.000 1.000 1.000  emis 0.000 0.000 0.000  spec 0.000 0.000 0.000  shi 0 trans 0.000
+MATERIAL "chapa" rgb 0.460 0.480 0.060  amb 0.460 0.480 0.060  emis 0.000 0.000 0.000  spec 0.230 0.240 0.030  shi 32 trans 0.000
+OBJECT world
+name "Blender_exporter_v2.18__EGYP-D38.ac"
+kids 25
+OBJECT poly
+name "DXFmesh.004"
+data 11
+DXFmesh.423
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.007"
+data 11
+DXFmesh.424
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.012"
+data 11
+DXFmesh.426
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.013"
+data 11
+DXFmesh.427
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.034"
+data 11
+DXFmesh.429
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.043"
+data 11
+DXFmesh.430
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.044"
+data 11
+DXFmesh.431
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.048"
+data 11
+DXFmesh.432
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.050"
+data 11
+DXFmesh.433
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.060"
+data 11
+DXFmesh.436
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.063"
+data 11
+DXFmesh.437
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.068"
+data 11
+DXFmesh.438
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.069"
+data 11
+DXFmesh.439
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.099"
+data 11
+DXFmesh.441
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.123"
+data 11
+DXFmesh.443
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.128"
+data 11
+DXFmesh.445
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.130"
+data 11
+DXFmesh.446
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.132"
+data 11
+DXFmesh.447
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.133"
+data 11
+DXFmesh.448
+crease 40.0
+kids 0
+OBJECT poly
+name "DXFmesh.144"
+data 11
+DXFmesh.450
+crease 40.0
+kids 0
+OBJECT poly
+name "Plane"
+data 9
+Plane.222
+crease 40.0
+kids 0
+OBJECT poly
+name "Plane.001"
+data 9
+Plane.223
+crease 40.0
+numvert 32
+-15.86459 -0.00094 4.50018
+-19.86459 -0.00094 4.50018
+-15.86459 3.49906 4.50018
+-19.86459 4.46904 4.50018
+-2.16458 -0.00094 4.50018
+-11.86459 -0.00094 4.50018
+-2.16458 3.49906 4.50018
+-11.86459 3.49906 4.50018
+11.5354 -0.00094 4.50018
+1.83542 -0.00094 4.50018
+11.5354 3.49906 4.50018
+1.83542 3.49906 4.50018
+19.5354 -0.00094 4.50018
+15.5354 -0.00094 4.50018
+19.5354 4.46904 4.50018
+15.5354 3.49906 4.50018
+-19.86459 -0.00094 -4.89984
+-19.86459 3.99862 -4.89984
+19.5354 -0.00094 -4.89984
+19.5354 3.99862 -4.89984
+-2.16458 -0.00094 4.30017
+-2.16458 3.49906 4.30017
+1.83542 -0.00094 4.30017
+1.83542 3.49906 4.30017
+11.5354 -0.00094 4.30017
+11.5354 3.49906 4.30017
+15.5354 -0.00094 4.30017
+15.5354 3.49906 4.30017
+-15.86459 -0.00094 4.30017
+-15.86459 3.49906 4.30017
+-11.86459 -0.00094 4.30017
+-11.86459 3.49906 4.30017
+numsurf 17
+SURF 0X0
+mat 0
+refs 4
+1 0 0
+0 0 0
+2 0 0
+3 0 0
+SURF 0X0
+mat 0
+refs 4
+5 0 0
+4 0 0
+6 0 0
+7 0 0
+SURF 0X0
+mat 0
+refs 4
+9 0 0
+8 0 0
+10 0 0
+11 0 0
+SURF 0X0
+mat 0
+refs 4
+13 0 0
+12 0 0
+14 0 0
+15 0 0
+SURF 0X0
+mat 0
+refs 4
+2 0 0
+15 0 0
+14 0 0
+3 0 0
+SURF 0X0
+mat 0
+refs 4
+14 0 0
+12 0 0
+18 0 0
+19 0 0
+SURF 0X0
+mat 0
+refs 4
+1 0 0
+3 0 0
+17 0 0
+16 0 0
+SURF 0X0
+mat 0
+refs 4
+17 0 0
+19 0 0
+18 0 0
+16 0 0
+SURF 0X0
+mat 0
+refs 4
+9 0 0
+11 0 0
+23 0 0
+22 0 0
+SURF 0X0
+mat 0
+refs 4
+6 0 0
+4 0 0
+20 0 0
+21 0 0
+SURF 0X0
+mat 0
+refs 4
+13 0 0
+15 0 0
+27 0 0
+26 0 0
+SURF 0X0
+mat 0
+refs 4
+10 0 0
+8 0 0
+24 0 0
+25 0 0
+SURF 0X0
+mat 0
+refs 4
+5 0 0
+7 0 0
+31 0 0
+30 0 0
+SURF 0X0
+mat 0
+refs 4
+2 0 0
+0 0 0
+28 0 0
+29 0 0
+SURF 0X0
+mat 0
+refs 4
+7 0 0
+2 0 0
+29 0 0
+31 0 0
+SURF 0X0
+mat 0
+refs 4
+11 0 0
+6 0 0
+21 0 0
+23 0 0
+SURF 0X0
+mat 0
+refs 4
+15 0 0
+10 0 0
+25 0 0
+27 0 0
+kids 0
+OBJECT poly
+name "Plane.002"
+data 9
+Plane.000
+crease 40.0
+texture "EGYP-D38-01.png"
+texrep 1 1
+numvert 4
+-20.16406 4.77953 4.7124
+-20.16406 4.27916 -5.28757
+19.83594 4.77953 4.7124
+19.83594 4.27916 -5.28757
+numsurf 1
+SURF 0X0
+mat 1
+refs 4
+1 0.41797 0.856215
+0 0.41797 5.8562
+2 20.417969 5.8562
+3 20.417969 0.856215
+kids 0
+OBJECT poly
+name "Plane.003"
+data 9
+Plane.001
+crease 40.0
+texture "EGYP-D38-02.png"
+texrep 1 1
+numvert 12
+-2.16458 -0.00094 4.30017
+-2.16458 3.49906 4.30017
+1.83542 -0.00094 4.30017
+1.83542 3.49906 4.30017
+11.5354 -0.00094 4.30017
+11.5354 3.49906 4.30017
+15.5354 -0.00094 4.30017
+15.5354 3.49906 4.30017
+-15.86459 -0.00094 4.30017
+-15.86459 3.49906 4.30017
+-11.86459 -0.00094 4.30017
+-11.86459 3.49906 4.30017
+numsurf 3
+SURF 0X0
+mat 2
+refs 4
+8 0.000118 0.259415
+10 0.42966 0.259414
+11 0.429661 0.999936
+9 0.000119 0.999936
+SURF 0X0
+mat 2
+refs 4
+0 0.000113 0.259417
+2 0.429655 0.259417
+3 0.429655 0.999939
+1 0.000113 0.999939
+SURF 0X0
+mat 2
+refs 4
+4 0.000118 0.259421
+6 0.42966 0.25942
+7 0.42966 0.999942
+5 0.000119 0.999942
+kids 0
+OBJECT poly
+name "Plane.028"
+data 9
+Plane.227
+crease 40.0
+numvert 8
+-20.16406 4.47954 4.7124
+-20.16406 3.97917 -5.28757
+-20.16406 4.77953 4.7124
+-20.16406 4.27916 -5.28757
+19.83594 4.47954 4.7124
+19.83594 3.97917 -5.28757
+19.83594 4.77953 4.7124
+19.83594 4.27916 -5.28757
+numsurf 5
+SURF 0X0
+mat 3
+refs 4
+1 0 0
+0 0 0
+2 0 0
+3 0 0
+SURF 0X0
+mat 3
+refs 4
+2 0 0
+0 0 0
+4 0 0
+6 0 0
+SURF 0X0
+mat 3
+refs 4
+1 0 0
+3 0 0
+7 0 0
+5 0 0
+SURF 0X0
+mat 3
+refs 4
+0 0 0
+1 0 0
+5 0 0
+4 0 0
+SURF 0X0
+mat 3
+refs 4
+7 0 0
+6 0 0
+4 0 0
+5 0 0
+kids 0
